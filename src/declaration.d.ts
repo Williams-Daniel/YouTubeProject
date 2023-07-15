@@ -1,0 +1,7 @@
+declare module "*../Assets/Videos/cottonMoon.mp4"
+declare module "*../Assets/Videos/churchSingers.mp4"
+declare module "*../Assets/Videos/Shoe.mp4"
+declare module "*../Assets/Videos/Family.mp4"
+declare module "*../Assets/Videos/Forex.mp4"
+declare module "*../Assets/Videos/Bikemen.mp4"
+declare module "*../Assets/Videos/guitarist.mp4"
